@@ -13,7 +13,7 @@ body {
   text-transform: uppercase; }
 
   header.masthead img {
-    border-radius:50%;
+    border-radius:200px;
     display: block;
     margin: 0 auto 20px;}
 
